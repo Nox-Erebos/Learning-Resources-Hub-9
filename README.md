@@ -24,4 +24,14 @@
 
 > **Chapter 3 : The Biosphere**
 
-####
+#### [**3.1 What is Ecology?**](https://docs.google.com/presentation/d/1NKFFNiriIV0-j10qMnDA8wK0N2ZLHfdI9Ci3dQcMOXs/edit#slide=id.p)
+
+#### [**3.2 Energy, Producers, and Consumers**](https://docs.google.com/presentation/d/18O371eRBtWj0UBZVQDeDMWwvFu0DGh8jdt0ajai7U2k/edit#slide=id.p)
+
+#### [**3.3 Energy Flows in the Ecosystem**](https://docs.google.com/presentation/d/1l_u6qjJMgU8O1qMWKkN3cAe-G9t_LKWNzHc3qKkQKGI/edit#slide=id.p)
+
+#### [**3.4 Cycles of Matter**](https://docs.google.com/presentation/d/1H4rg1Byk2c1i0JsXI49uuMzwycWjf4SU_DU4Wc7YlVE/edit#slide=id.p)
+
+> **Chapter 4 : Ecosystems and Communities**
+
+#### [**4.1 Climate**](https://docs.google.com/presentation/d/1-_yS62vdPiAPXf7LnBG4a2rght6-504AasduasuugIA/edit#slide=id.p)
