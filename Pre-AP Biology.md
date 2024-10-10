@@ -36,5 +36,7 @@
 
 #### [**4.1 Climate**](https://docs.google.com/presentation/d/1-_yS62vdPiAPXf7LnBG4a2rght6-504AasduasuugIA/edit#slide=id.p)
 
+#### [**4.2 Niche and Community Interactions**](https://docs.google.com/presentation/d/1yfpOVP7tV0jk7668Zmveu76gyGM0G33ayKctfHH9JAk/edit#slide=id.p)
+
 
 #### [**<---   Back**](https://github.com/AlphaMC0/Learning-Resources-Hub-9/blob/main/README.md)
