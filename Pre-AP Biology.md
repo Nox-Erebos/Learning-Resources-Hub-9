@@ -38,5 +38,7 @@
 
 #### [**4.2 Niche and Community Interactions**](https://docs.google.com/presentation/d/1yfpOVP7tV0jk7668Zmveu76gyGM0G33ayKctfHH9JAk/edit#slide=id.p)
 
+#### [**4.3 Succession**](https://docs.google.com/presentation/d/1-Ts-ypS4QTV7hopmLPA_FjEP3Q_Bn973WgSONiZuPQk/edit#slide=id.p)
+
 
 #### [**<---   Back**](https://github.com/AlphaMC0/Learning-Resources-Hub-9/blob/main/README.md)
