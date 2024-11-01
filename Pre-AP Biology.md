@@ -40,5 +40,7 @@
 
 #### [**4.3 Succession**](https://docs.google.com/presentation/d/1-Ts-ypS4QTV7hopmLPA_FjEP3Q_Bn973WgSONiZuPQk/edit#slide=id.p)
 
+#### [**4.4 Biomes**](https://docs.google.com/presentation/d/1-Ub3UzgS99g_5JVc3gYwp6Ur2sTfZ0cPhC4JNAcW5Is/edit#slide=id.p)
+
 
 #### [**<---   Back**](https://github.com/AlphaMC0/Learning-Resources-Hub-9/blob/main/README.md)
